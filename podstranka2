@@ -3,12 +3,16 @@
 	<head>
 		<title>Online kvalifikovaný elektronický podpis</title>
 		<style>
-			body {background-color: gray;}
+			body {background-color: violet;}
 			h1 {color:red; font-calibri:cursive}
 		</style>
 		<h1> <h1 style="text-align:center;"> Online kvalifikovaný elektronický podpis</h1>
 	</head>
 	<body> <a href='Marian-og/Elektronickypodpis.html'> Naspäť</a>
-<ul>
+<ul> <li> Online kvalifikovaný elektronický podpis je spôsob, ako si overiť elektronickú identitu a zároveň potvrdiť totožnosť osoby, ktorá sa podpisuje pod elektronický dokument alebo potvrdenie. </li>
+<li> Je to vlastne digitálny podpis, obdobou klasického písomného podpisu z dokumentu, ktorý predstavuje autenticky uznaný signatár všetkých písomných dokumentov. </li>
+<li> Online kvalifikovaný elektronický podpis je zabezpečený šifrou, ktorá je použitá na overenie originálnosti dokumentu. Jeho používanie je odporúčané pre elektronické dokumenty, avšak informácia musí byť zaručene autentická. </li>
+Kvalifikovaný elektronický podpis je rovnako platný ako klasický písomný podpis a má rovnakú právnu silu. Poskytuje autenticity, integritu a nezameniteľnosť informácií, ktoré sa objavia v elektronickom dokumente.
+To znamená, že ak sa prevádzajú obchody s vecnými výrobkami alebo finančnými tokmi v online priestore, môžu sa používať ako nástroj na zaistenie, aby všetky informácie v dokumente boli autentické, správne a neporušené.
 </body>
 </html> 
